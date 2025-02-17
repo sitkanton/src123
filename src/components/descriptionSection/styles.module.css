@@ -1,0 +1,25 @@
+.section {
+  background-color: #fff;
+  font-size: 14px;
+  color: #22356F;
+  ;
+  ;
+}
+
+.main {
+  padding:0 170px;
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  justify-content: center;
+  align-items: center;
+  height: 80vh;
+}
+.text {
+  width: 900px;
+  text-align: left;
+  font-size: 24px;
+  font-style: italic;
+  
+
+}

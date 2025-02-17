@@ -1,0 +1,33 @@
+.section {
+  background-color: #62d0df;
+  font-size: 14px;
+  color: #fff;
+}
+
+.main {
+  padding: 0 0 0 170px;
+}
+
+.content {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 30px;
+}
+.textContent {
+  /* max-width: 700px; */
+}
+
+.title {
+  font-style: italic;
+  font-size: 42px;
+  font-weight: 400;
+  margin-bottom: 46px;
+  text-align: left;
+}
+
+.description {
+  font-size: 24px;
+  font-weight: 400;
+  text-align: left;
+}
